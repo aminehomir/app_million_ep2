@@ -1,0 +1,55 @@
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.image{
+  width: 262px;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.question{
+  color:#ffff;
+  margin:0;
+}
+
+.btn {
+  margin-left: 40px;
+  margin-top: 20px;
+  width: 262px;
+  text-decoration: none;
+  color:#ffff;
+  background: #76469a;
+  padding: 15px 40px;
+  border-radius: 4px;
+  font-weight: normal;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+
+.winner{
+  background-color: white;
+    width: 42%;
+    margin: auto;
+    border-radius: 5px;
+}
